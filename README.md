@@ -187,46 +187,6 @@ Purpose:
 
 ---
 
-## Screenshots
-
-### Splunk Installation
-
-_Add Screenshot Here_
-
-### Splunk Dashboard
-
-_Add Screenshot Here_
-
-### Log Upload Process
-
-_Add Screenshot Here_
-
-### Uploaded Log Preview
-
-_Add Screenshot Here_
-
-### Search Results
-
-_Add Screenshot Here_
-
-### Command Statistics
-
-_Add Screenshot Here_
-
-### Process Statistics
-
-_Add Screenshot Here_
-
-### Event Trend Visualization
-
-_Add Screenshot Here_
-
-### Top Processes Analysis
-
-_Add Screenshot Here_
-
----
-
 ## Learning Outcomes
 
 This project provided practical experience with SIEM deployment, log ingestion, security monitoring, and SPL-based investigations. It strengthened foundational SOC Analyst skills related to authentication monitoring and event analysis using Splunk Enterprise.
