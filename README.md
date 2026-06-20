@@ -19,7 +19,6 @@ This hands-on project helped develop practical SIEM skills commonly used by SOC 
 - Monitor authentication and sudo activities
 - Generate statistics and visualizations
 - Gain hands-on experience with SIEM operations
-
 ---
 
 ## Technologies Used
